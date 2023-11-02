@@ -9,6 +9,7 @@
 2. Planet Simulation
    
    Libraries/modules used: Pygame
-   <img width="796" alt="Screenshot 2023-11-02 at 2 30 12 AM" src="https://github.com/redcygni/Physics-Simulations/assets/118145890/2ca969d9-175c-4808-9685-40f73ecf0e47">
+  <img width="796" alt="Screenshot 2023-11-02 at 2 30 12 AM" src="https://github.com/redcygni/Physics-Simulations/assets/118145890/7b775bf3-4e9b-4004-9583-f3a971d3439d">
+
    
    I followed this tutorial on youtube: https://www.youtube.com/watch?v=WTLPmUHTPqo&ab_channel=TechWithTim
