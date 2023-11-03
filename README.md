@@ -1,6 +1,6 @@
 1. Background Information
                  
-        I. For every simulation attached, I will include in the ReadMe:
+        I. Included with every simulation attached:
                   1. A list of libraries/modules used
                   2. A screenshot from the simulation
                   3. Credit (when necessary)
