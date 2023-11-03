@@ -1,5 +1,5 @@
 1. Background Information
-   Libraries I've used:
+2. Libraries I've used:
      1. Pygame
    For every simulation attached, I will include in the ReadMe:
      1. A list of libraries/modules used
