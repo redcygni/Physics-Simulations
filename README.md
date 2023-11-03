@@ -1,14 +1,14 @@
-1. Background Information
+Background Information
                  
-        I. Included with every simulation attached:
-                  1. A list of libraries/modules used
-                  2. A screenshot from the simulation
-                  3. Credit (when necessary)
-        II. All of my code, unless otherwise noted, was written in VSCode.
-        III. Underneath the credit, there will be a short description of the skills used in creating the corresponding simulation.
+        I. Included with each simulation attached:
+           1. A list of libraries/modules used
+           2. A screenshot
+           2. Credit (when necessary)
+        II. All code (unless otherwise noted) was written in VSCode.
+        III. Also included with each simulation will be a description of the skills utilized in its development.
    
 
-3. Planet Simulation
+1. Planet Simulation
    
    Libraries/modules used: Pygame
   <img width="796" alt="Screenshot 2023-11-02 at 2 30 12 AM" src="https://github.com/redcygni/Physics-Simulations/assets/118145890/7b775bf3-4e9b-4004-9583-f3a971d3439d">
